@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Factory</string>
+
+    <string name="card_content.description.image_element">Imagen</string>
+    <string name="card_content.description.name">Nombre</string>
+    <string name="card_content.description.description">Descripción</string>
+    <string name="card_content.description.calories">Calorias</string>
+    <string name="card_content.description.price">Precio</string>
 </resources>
